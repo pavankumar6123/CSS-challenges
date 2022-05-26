@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    padding:2px 12px;
+    height:480px;
+    width:550px;
+    border:3px solid red;
+    background-color:lightyellow;
+    
+}
+
+img {
+    height:150px;
+    width:400px;
+    border:8px solid orange;
+}
+
+.dashed {
+    padding:5px 12px;
+    height:180px;
+    width:380px;
+    border-style:dashed;
+    border-width:7px;
+}
+         
+#id1 {
+    weidth:350px;
+    height:"180px";
+    overflow-x:hidden;
+}
+
+h3 {
+     background-color:yellow;
+}
+
+p.b {
+  font: italic bold 12px/30px Georgia, serif;
+}
+
+p.a {
+  font: 20px Arial, sans-serif;
+}
+
+h1 {
+     text-decoration:underline;
+}
+
+</style>
+</head 
+<body>
+<div>
+    <h2>Fox</h2>
+    <img src="https://getwallpapers.com/wallpaper/full/f/0/c/100543.jpg">
+
+    <h3  id="id1" class="dashed"><br>Fox is a common name for many species of corniorous mammals belonging to the canidae family.<span>Foxes are small to medium sized canids (slightly smaller than the median-sized domestic dog),charecterized by processing a long narrow snout, and a bushy tail (or brush).
+    
+<ul>
+<li>
+<p class="b">This Short Story The Clever Fox is quite interesting to all the people. Enjoy reading this story. There once lived a crow. One day he was very hungry. He had not been able to get any food the previous day. “If I do not get anything to eat I will starve to death," he thought.</p></li>
+
+<li>
+<h4>Members of about 37 species are refered to as foxes , of which only 12 species</h4>
+</li>
+</ul>
+
+<h1 style="color:blue;">Fox Story:</h1>
+
+<p class="a" style="color:green;">The Fox and The Grapes Story in English One afternoon, a fox which was out for a walk in the jungle came across a bunch of grapes hanging. Its mouth watered at the very sight of the grapes. The fox thought to himself that if it could get the bunch of grapes, it would be just the thing to quench its thirst in the sweltering heat of the afternoon.</p>
+
+<ol>
+<li>
+<span style="color:red;">What is the summary of the Fox and the grapes?</span>
+</li>
+</ol>
+
+<p style="color:blue;">A): The Fox and The Grapes Story in English One afternoon, a fox which was out for a walk in the jungle came across a bunch of grapes hanging. Its mouth watered at the very sight of the grapes. The fox thought to himself that if it could get the bunch of grapes, it would be just the thing to quench its thirst in the sweltering heat of the afternoon.</p>
+
+</div>
+</body>
+</html>
